@@ -1,0 +1,35 @@
+.navbar {
+  background-color: hsl(36 100% 62%);
+  padding: 20px;
+  border-radius: 310px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar li {
+  margin-right: 20px;
+  border-bottom: 1px solid white;
+}
+
+.navbar a {
+  color: hsl(36 74% 7%);
+  text-decoration: none;
+  padding: 8px 16px;
+
+}
+
+.navbar a:hover {
+  background-color: hsl(36 100% 50%);
+  border-radius: 4px;
+}
+
+.active {
+  background-color: hsl(36 100% 50%);
+  border-radius: 4px;
+}

@@ -1,0 +1,8 @@
+.general-bg {
+    max-width: 500px;
+    text-align: center;
+    margin: 10px auto;
+    background-color: hsl(37 100% 46%);
+    padding: 10px;
+    border-radius: 10px;
+}

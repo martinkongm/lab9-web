@@ -1,0 +1,20 @@
+.product-list--bg {
+  background-color: hsl(37 100% 46%);
+  margin-bottom: 10px;
+  margin: 10px auto;
+  max-width: 500px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.gallery-img--bg {
+  background-color: hsl(37 100% 46%);
+  max-width: 60%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+h2 {
+  text-align: center;
+  color: hsl(36 74% 7%);
+}
